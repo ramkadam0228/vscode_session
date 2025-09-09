@@ -1,0 +1,18 @@
+2024-12-15 11:15:22,785-INFO-loggingClaslv.py-<module>-Application started
+2024-12-15 11:15:22,785-INFO-loggingClaslv.py-add_numbers-add numbers a:10, b=20
+2024-12-15 11:15:22,785-DEBUG-loggingClaslv.py-add_numbers-Addition result is: 30
+2024-12-15 11:15:22,785-INFO-loggingClaslv.py-subtract_numbers-add numbers a:200, b=100
+2024-12-15 11:15:22,785-DEBUG-loggingClaslv.py-subtract_numbers-Addition result is: 100
+2024-12-15 11:15:22,785-INFO-loggingClaslv.py-__init__-Claculator instance created
+2024-12-15 11:15:22,786-INFO-loggingClaslv.py-divide_numbers-divide numbers a:5, b=0
+2024-12-15 11:15:22,787-ERROR-loggingClaslv.py-divide_numbers-Attempted divsion by zero
+Traceback (most recent call last):
+  File "C:\Users\ramka\Documents\vscode_session\python_oops\python_logging\loggingClaslv.py", line 34, in divide_numbers
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-12-15 11:15:22,791-INFO-loggingClaslv.py-multiply_numbers-multiply numbers a:6, b=7
+2024-12-15 11:15:22,791-DEBUG-loggingClaslv.py-multiply_numbers-multiply result is: 42
+2024-12-15 11:15:22,791-INFO-loggingClaslv.py-divide_numbers-divide numbers a:60, b=70
+2024-12-15 11:15:22,791-DEBUG-loggingClaslv.py-divide_numbers-divide result is: 0.8571428571428571
+2024-12-15 11:15:22,791-INFO-loggingClaslv.py-<module>-Application finished

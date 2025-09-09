@@ -1,0 +1,1 @@
+flask is used to connect python backend code to front end(http links, java,css,js etc)
